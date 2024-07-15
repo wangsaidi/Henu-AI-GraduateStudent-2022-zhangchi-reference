@@ -1,5 +1,9 @@
 1：前期准备  
 
+基础课程
+[人工智能基础](https://www.bilibili.com/video/BV1sU4y1o7qy/)
+
+
 通过不同方式搜索相应领域文章进行了解
 * [百度](https://www.baidu.com/)
 * [知乎](https://www.zhihu.com/)
