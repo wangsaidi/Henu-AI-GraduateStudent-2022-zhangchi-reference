@@ -22,7 +22,7 @@
 * [Office](http://ms.henu.edu.cn/)：  
 Office是微软公司开发的一套办公软件套装，全称Microsoft Office。它集成了多个高效办公应用程序，包括Word（文字处理）、Excel（电子表格）、PowerPoint（演示文稿）、Outlook（邮箱和日程管理）等。Office旨在提高用户的工作效率，支持文档创建、编辑、格式化和共享，广泛应用于商务办公、教育、科研等领域，是全球最受欢迎的办公软件之一。    
 
-* [MathType](www.mathtype.cn)：  
+* [MathType](http://www.mathtype.cn)：  
 MathType是一款功能强大的数学公式编辑器，主要功能包括：  
   丰富的符号库：内置数千种数学符号和模板，覆盖从基础数学到高等数学、物理学、工程学等各个领域。  
   直观编辑界面：采用类似计算器的简单操作界面，用户可快速上手，通过拖拽、点击和输入构建复杂公式。  
